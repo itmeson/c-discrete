@@ -1,129 +1,107 @@
 Course Outline
-################
+##############
 
-:date: 2012-10-30
+:date: 2013-03-01
 :summary: Course outline and boilerplate
 :category: overview
 :tags: overview, standards, grading
 
 
 ============================
-COURSE OUTLINE** (2012-2013)
+COURSE OUTLINE (2012-2013)
 ============================
 
-**COURSE TITLE:**   COLLEGE ALGEBRA
+**COURSE TITLE:**	Discrete Mathematics 
 
-**COURSE NUMBER:**		MATH1020
+**COURSE NUMBER:**	MATH3020
 
 **QUARTER CREDIT HOURS:**	4.5
 
-**CONTACT HOURS:** 	45 lecture hours
+**CONTACT HOURS:** 		45 lecture hours
 
-**PREREQUISITE(S):**  MATH0001 or placement
+**PREREQUISITE(S):**  		MATH1013 or MATH 1020 
 
 ===================
 COURSE DESCRIPTION:
 ===================
-This course provides students with a working knowledge of the basic elements of college algebra.  Topics covered include functions, exponents and radicals, the solution of linear and quadratic equations, inequalities, matrices and systems of linear equations.
+This course is designed to give students the basic mathematical concepts and methods that are prevalent in information science.  Topics include sets, relations and functions, elementary graph and network theory, trees, matching algorithms, network flows, counting techniques, and recurrence relations.
 
 ================
 COURSE OUTCOMES:
 ================
-Upon satisfactory completion of this course, the student should have the ability to:
 
- 1. Perform operations with real numbers and correctly utilize the properties of such numbers to solve practical problems on examinations and in assigned work.
- 2. Translate practical problems into their algebraic form and manipulate the same to correctly solve such problems on examinations and in assigned work.
- 3. Perform operations on polynomials, rational expressions, exponents, and radicals and employ the same to correctly solve practical problems on examinations and in assigned work.
- 4. Correctly apply the function concept to solve both problems of an algebraic and graphical nature which appear on examinations and in assigned work.
- 5. Solve equations involving radicals and quadratic equations to correctly solve problems which appear on examinations and in assigned work.
- 6. Demonstrate sufficient mathematical literacy as indicated by the University test for the Performance Transcript.
+Students will be able to:
+
+    1.  Correctly perform operations with sets, relations, and functions on both examinations and in assigned work.
+    2.  Correctly use graphs, directed graphs, and multigraphs on both examinations and in assigned work.
+    3.  Correctly solve problems involving matching and matching algorithms on both examinations and in assigned work.
+    4.  Correctly solve problems involving network flows on both examinations and in assigned work.
+    5.  Correctly solve problems involving counting techniques on both examinations and in assigned work.
+    6.  Correctly solve problems involving recurrence relations and linear difference equations on both examinations and in assigned work.
 
 
 ===============
 CONTENT OUTLINE
-===============
+=============== 
 
--------------------------
-1. The Real Number System
--------------------------
-   1. Real numbers and their properties
-   2. Operations with real numbers
-   3. Exponents, roots, order of operations
-   4. Solving Linear Equations and Inequalities
-   5. Algebraic terms and expressions
+-----------------
+1.  Combinatorics
+-----------------
+    a)  The Fundamental Counting Principle
+    b)  Permutations and Combinations
+    c)  Permutations with Repetitions Present
+    d)  Probability
+    e)  The Binomial Theorem and Pascal’s Triangle
+    f)  The Matching and Knapsack Problems
+    g)  Algorithms 
+                  
+---------------------------------
+2.  Sets, Relations and Functions
+---------------------------------
+    a)  Set Operations
+    b)  Equivalence Relations
+    c)  Congruence
+    d)  Functions
+    e)  Mathematical Induction
+    f)  Applications
 
---------------------------------------------
-2. Solving linear equations and applications
---------------------------------------------
-   1. Solving linear inequalities and applications
-   2. Compound inequalities
-   3. Equations and inequalities involving absolute value
+----------
+3.  Graphs
+----------
+    a)  Basic Concepts
+    b)  Paths and Circuits
+    c)  Shortest Path and Distance
+    d)  Coloring a Graph
+    e)  Directed Graphs and Multigraphs
 
---------------------
-3. Analytic Geometry
---------------------
-   1. The coordinate plane
-   2. Linear equations in two variables
-   3. Slope and its applications
-   4. Equations of lines
-   5. Graphs of linear inequalities
+---------
+4.  Trees
+---------
+    a)  Basic Concepts
+    b)  Minimal and Maximal Spanning Trees
+    c)  Depth-First Search
+    d)  Rooted Trees
+    e)  Binary Trees and Traversals
+    f)  Optimal Trees
 
-------------------------------
-4. Systems of Linear Equations
-------------------------------
-   1. Graphical solution of linear systems
-   2. Algebraic methods of solution
-   3. Systems of equations in three variables
-   4. Determinants and Cramer’s rule
-   5. Applications
-
-----------------------------
-5. Exponents and Polynomials
-----------------------------
-   1. Rules of exponents
-   2. Polynomials
-   3. Operations on polynomials
-   4. Special polynomial products
-
-------------
-6. Factoring
-------------
-   1. Common factors
-   2. Special factoring techniques and rules
-   3. Factoring trinomials
-   4. Solving equations by factoring
-
------------------------
-7. Rational Expressions
------------------------
-   1. Operations on rational expressions
-   2. Complex fractions
-   3. Solving equations featuring rational expressions
-   4. Applications
-
-----------------------
-8. Radical Expressions
-----------------------
-   1. Rational exponents
-   2. Product and quotient rules
-   3. Operations on radical expressions
-   4. Solving equations featuring radical expressions
-   5. Applications
-
-----------------------
-9. Quadratic Equations
-----------------------
-   1. The quadratic formula
-   2. Equations in quadratic form
-   3. Applications
+------------------------
+5.  Recurrence Relations
+------------------------
+    a)  Basic Concepts
+    b)  Method of Iteration
+    c)  Linear Difference Equations
+    d)  Efficiency of Algorithms
+    e)  Generating Functions
 
 
+============================
+REQUIRED TEXT(S)/TECHNOLOGY:
+============================
 
-**REQUIRED TEXT(S)/TECHNOLOGY:** 
-Gustafson, Karr, Massey, Beginning and Intermediate Algebra, 6/e. Cengage, 2011,
-(Complete Version) 111401926
-(Customized Version) 9780000401924
-a scientific or graphing calculator (smart phones/tablets/laptops are encouraged as alternatives to a calculator)
+Lipschutz, Lipson, Schaum's Outlines: Discrete Mathematics, 3/e. McGraw Hill, 2007. 978-0-07-161586-0 
+
+A scientific or graphing calculator (smart phones/tablets/laptops are encouraged as alternatives to a calculator)
+
 
 **EVALUATIVE CRITERIA:**
 1. Periodic exams, quizzes, assignments

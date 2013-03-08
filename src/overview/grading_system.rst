@@ -1,7 +1,7 @@
 Grading System
 ##############
 
-:date: 2012-10-30
+:date: 2013-03-05
 :category: overview
 :tags: standards, grading, overview
 
@@ -11,8 +11,8 @@ performance in these categories:
 * 10%	Final Exam
 * 10%	Homework_
 * 10%	Quizzes_	
-* 10%	Participation
-* 60%	Standards_ 
+* 20%	Participation
+* 50%	Standards_ 
 
 The final exam will be comprehensive.
 
@@ -44,10 +44,10 @@ improved your understanding.  I will then create a new assessment of the same
 skills, and will keep your *highest* score on that standard over the course of
 the term. 
 
-Your scores for the standards will be kept in a separate gradebook program to
-which you will have access, called ActiveGrade.  It will be your responsibility
-to ensure/check the accuracy of all scores entered in ActiveGrade and on
-Ulearn.
+Your scores for the Standards portion of the course will be kept separately
+from Ulearn, and will be emailed to you on a weekly basis.  It will be your
+responsibility to ensure the accuracy of all scores. 
+
 
 .. _Standards: ../standards.html
 .. _Homework: ../category/homework.html

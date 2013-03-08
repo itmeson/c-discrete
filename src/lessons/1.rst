@@ -1,0 +1,25 @@
+Lesson 1 
+########
+
+:date: 2013-03-05
+:summary: What's it all about
+:category: lessons
+:tags: overview, standards
+
+
+==============
+Today's Topics
+==============
+
+What is math, and discrete math in particular, all about?
+
+============
+New Homework
+============
+
+1. See Homework1_
+
+
+.. _Homework1: ../homework-1.html
+
+   
