@@ -26,4 +26,7 @@
 .. _AC.15: ../tag/AC.15.html
 .. _AC.16: ../tag/AC.16.html
 .. _AC.17: ../tag/AC.17.html
-
+.. _DC.1.a: ../tag/DC.1.A.html
+.. _DC.1.b: ../tag/DC.1.B.html
+.. _DC.1.c: ../tag/DC.1.C.html
+.. _DC.1.d: ../tag/DC.1.D.html

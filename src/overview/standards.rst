@@ -19,6 +19,10 @@ BI (Big Ideas):
 DC (Discrete Content):
 
    1. Logic
+	a. Truth tables   ( DC.1.a_ )
+	b. DeMorgan's Laws (DC.1.b_ )
+	c. Implication (DC.1.c_)
+	d. Basic syllogisms (proofs) (DC.1.d_)
    2. Permutations
    3. Combinations
    4. Binomial theorem
