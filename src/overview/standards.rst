@@ -24,16 +24,18 @@ DC (Discrete Content):
 	c. Implication (DC.1.c_)
 	d. Basic syllogisms (proofs) (DC.1.d_)
 	e. Finding counterexamples (DC.1.e_)
-   2. Permutations
-   3. Combinations
-   4. Binomial theorem
-   5. Induction proofs
-   6. Pigeonhole principle
-   7. Analysing algorithms
-   8. Recurrence relations
-   9. Graphs
-   10. Shortest paths
-   11. Graph coloring
+   2. Combinatorics
+	a. Permutations  ( DC.2.a_ )
+	b. Combinations  ( DC.2.b_ )
+	c. Perm. and comb with repeats ( DC.2.c_ )
+   3. Binomial theorem
+   4. Induction proofs
+   5. Pigeonhole principle
+   6. Analysing algorithms
+   7. Recurrence relations
+   8. Graphs
+   9. Shortest paths
+   10. Graph coloring
    
 
 .. include:: st_tags.rst

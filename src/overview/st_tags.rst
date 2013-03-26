@@ -31,3 +31,6 @@
 .. _DC.1.c: ../tag/DC.1.C.html
 .. _DC.1.d: ../tag/DC.1.D.html
 .. _DC.1.e: ../tag/DC.1.E.html
+.. _DC.2.a: ../tag/DC.2.A.html
+.. _DC.2.b: ../tag/DC.2.B.html
+.. _DC.2.c: ../tag/DC.2.C.html
