@@ -28,14 +28,14 @@ DC (Discrete Content):
 	a. Permutations  ( DC.2.a_ )
 	b. Combinations  ( DC.2.b_ )
 	c. Perm. and comb with repeats ( DC.2.c_ )
+        d. Pigeonhole principle ( DC.2.d_ )
    3. Binomial theorem
    4. Induction proofs
-   5. Pigeonhole principle
-   6. Analysing algorithms
-   7. Recurrence relations
-   8. Graphs
-   9. Shortest paths
-   10. Graph coloring
+   5. Analysing algorithms
+   6. Recurrence relations
+   7. Graphs
+   8. Shortest paths
+   9. Graph coloring
    
 
 .. include:: st_tags.rst

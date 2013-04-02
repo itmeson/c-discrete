@@ -34,3 +34,4 @@
 .. _DC.2.a: ../tag/DC.2.A.html
 .. _DC.2.b: ../tag/DC.2.B.html
 .. _DC.2.c: ../tag/DC.2.C.html
+.. _DC.2.d: ../tag/DC.2.D.html
