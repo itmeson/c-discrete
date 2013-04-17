@@ -24,18 +24,19 @@ DC (Discrete Content):
 	c. Implication (DC.1.c_)
 	d. Basic syllogisms (proofs) (DC.1.d_)
 	e. Finding counterexamples (DC.1.e_)
+	f. Proofs using truth tables (DC.1.f_ )
    2. Combinatorics
 	a. Permutations  ( DC.2.a_ )
 	b. Combinations  ( DC.2.b_ )
 	c. Perm. and comb with repeats ( DC.2.c_ )
         d. Pigeonhole principle ( DC.2.d_ )
-   3. Binomial theorem
-   4. Induction proofs
-   5. Analysing algorithms
-   6. Recurrence relations
-   7. Graphs
-   8. Shortest paths
-   9. Graph coloring
+   3. Induction proofs
+	a. Base case  (DC.3.A_ )
+	b. Connection between $n$ and $n+1$ cases   ( DC.3.B_ )
+	c. Logic of the proof	( DC.3.C_ ) 
+   4. Graphs
+   5. Shortest paths
+   6. Graph coloring
    
 
 .. include:: st_tags.rst

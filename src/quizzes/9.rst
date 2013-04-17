@@ -3,7 +3,7 @@ Quiz 9
 
 :date: 2013-04-16 
 :category: quizzes
-:tags: DC.1.B, DC.1.A, DC.2.A 
+:tags: DC.1.B, DC.1.F, DC.2.A 
 
 
 1. State De Morgan's Laws
