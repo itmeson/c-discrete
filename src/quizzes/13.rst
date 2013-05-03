@@ -1,0 +1,17 @@
+Quiz 13 
+#######
+
+:date: 2013-05-02
+:category: quizzes
+:tags: DC.2.B,DC.4.B
+
+
+1. Consider a graph with $5$ points, where every point is connected by a line to every other point.  (A graph like that is sometimes called a *complete* graph with 5 points, or $K_5$)
+
+   a. How many lines are there within this graph?
+   b. How many triangles (groups of 3 points, all of which are connected to each other? -- sometimes called $K_3$)
+   c. How many "squares" (groups of 4 points, all of which are connected to each other -- sometimes called $K_4$)  
+  
+2. Answer the same questions for a graph with $10$ points ($K_{10}$).
+ 
+ 

@@ -1,0 +1,22 @@
+Quiz 11 
+#######
+
+:date: 2013-04-23
+:category: quizzes
+:tags: DC.2.D,DC.4.A
+
+
+1. I have a bunch of identical pairs of gloves jumbled together in a box.  Suppose I take 5 *gloves* out at random. The pigeonhole principle guarantees that I will get at least one Left handed glove and at least one Right handed glove.
+
+Is the preceding statement true or false?  In either case, explain why, using the pigeonhole principle. 
+  
+
+2. It is possible to construct a path through one of the two graphs below, such that every edge is visited once with no repeats.  For which graph is it possible?  What property of each graph could you use to explain why it will be possible/impossible, even if you didn't trace out all the possibilities?
+
+.. image:: images/euler-path.jpg 
+   :height: 400
+   :width: 800
+   :scale: 50
+   :alt: Two graphs, one of which has a path.
+ 
+ 

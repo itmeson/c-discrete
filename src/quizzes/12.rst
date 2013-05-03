@@ -1,0 +1,15 @@
+Quiz 12 
+#######
+
+:date: 2013-04-30
+:category: quizzes
+:tags: DC.3.A, DC.3.B, DC.3.C
+
+
+1. Prove, using induction, that $ 7^n - 1 $ is always divisible by $6$, as long as $n$ is an integer.
+
+Another way of writing that that expression is divisible by $6$ is to say that $ 7^n - 1 = 6x$, where $x$ is some integer.  ($x$ is the whole number you would get if you divided $7^n -1$ by $6$. 
+  
+
+ 
+ 
