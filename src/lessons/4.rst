@@ -1,0 +1,23 @@
+Lesson 4 
+########
+
+:date: 2013-03-19
+:summary: More techniques of combinatorics
+:category: lessons
+:tags: handshake, combinations, permutations, pigeonhole
+
+==============
+Today's Topics
+==============
+
+1. Extending the handshake problem to groups of 3, groups of 4,etc.
+2. When do you multiply? When do you add?
+3. What does "order doesn't matter" really mean?
+4. Who can do the "magic trick"? What is the explanation?
+5. The pigeonhole (or "crazy mailman" principle):
+
+   a.  There's a crazy mailman who doesn't like to put more than 3letters in each box, even if that means some of the letters don't end up in the right box.  If there  are $b$ boxes, what is the largest number of letters he can deliver?
+
+
+
+   

@@ -1,0 +1,35 @@
+Lesson 5 
+########
+
+:date: 2013-03-21
+:summary: 
+:category: lessons
+:tags: pigeonhole, thinking 
+
+==============
+Today's Topics
+==============
+
+1. More pigeonhole principle:
+
+   a. Consider a round-robin tournament with 4 teams, where every team plays every team once. What are the different possible outcomes of the tournament?
+   b. Is it possible to have more than one undefeated team?
+   c. Is it possible to have more than one winless team?
+   d. In all the outcomes where there are no winless teams (most of them,right?), there are two teams that have exactly the same record.  Why?
+   e. Is that true if there are a different number of teams in the tournament?
+
+2. The "Process":
+
+   a. Experiment
+   b. Notice
+   c. Conjecture
+   d. Check
+   e. Visualize
+   f. Prove / Disprove / Counterexample
+   g. Refine
+   
+A guess is a fine place to start, but it is a terrible place to stop.
+
+
+
+   
