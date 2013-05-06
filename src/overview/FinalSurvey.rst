@@ -1,10 +1,9 @@
 Final Survey
 ############
 
-:date: 2012-02-12
+:date: 2013-05-06
 :category: overview
 :tags:
-:status: drafts
 
 1. Go to the following survey_
 
@@ -13,7 +12,7 @@ Final Survey
 3. Make sure to enter your JWU email address at the bottom, so you can get credit for doing the survey.  Your responses will NOT be linked with your name.
 
 
-.. _survey: https://docs.google.com/forms/d/1E4FYSNxsfbVhKrtk0Mh3zGYNt6cnLrX6yCIpqYO294Q/viewform
+.. _survey: https://docs.google.com/forms/d/1kwtspYj6yWZCsKGmSzbW3AMXvJ-tRVgq01YrF4co2E8/viewform 
 .. _form: http://betnel.youcanbook.me/
 .. _form2: https://docs.google.com/spreadsheet/embeddedform?formkey=dE56ZnlvYnFIZnJJNURweldsZWo2WXc6MQ 
  
