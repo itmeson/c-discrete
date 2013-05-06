@@ -35,6 +35,9 @@ DC (Discrete Content):
 	b. Connection between $n$ and $n+1$ cases   ( DC.3.B_ )
 	c. Logic of the proof	( DC.3.C_ ) 
    4. Graphs
+	a. Finding paths (DC.4.A_ )
+	b. Identifying subgraphs (DC.4.B_ )
+
    5. Shortest paths
    6. Graph coloring
    

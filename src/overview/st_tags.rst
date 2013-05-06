@@ -39,3 +39,5 @@
 .. _DC.3.A: ../tag/DC.3.A.html
 .. _DC.3.B: ../tag/DC.3.B.html
 .. _DC.3.C: ../tag/DC.3.C.html
+.. _DC.4.A: ../tag/DC.4.A.html
+.. _DC.4.B: ../tag/DC.4.B.html

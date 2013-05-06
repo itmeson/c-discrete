@@ -25,7 +25,13 @@ Today's Topics
 ==============
 
 1. Proofs (basic syllogism forms)
-2. Combinatorics -- funny ways of counting things
+2. Counterexamples -- how do you prove that something is false?
+   a. All prime numbers are odd.
+   b. If it's raining, then it must be cloudy. 
+3. Combinatorics -- funny ways of counting things
+   a. How do you visualize how many ways there are to rearrange a bookshelf?
+   b. A "magic trick"
+
 
 ============
 New Homework

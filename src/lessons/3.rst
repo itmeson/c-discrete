@@ -25,7 +25,7 @@ Today's Topics
 
 1. Review the "magic trick", discuss possible ways to solve it, and test anyone who thinks they know how to do it.
 
-2. When do you use the factorial  ($n\\!$) or the exponent ($n^n $)  ??
+2. When do you use the factorial  ($n!$) or the exponent ($n^n $)  ??
 
 3. How many different license plates are possible in Rhode Island and in California?
 
