@@ -1,0 +1,87 @@
+\documentclass[addpoints, 12pt]{exam}
+\pagestyle{headandfoot}
+\firstpageheader{Math 3020, Discrete Mathematics}{Final Exam}{May 14/15, 2013}
+\firstpageheadrule
+\pointsinmargin
+\usepackage{amsmath}
+\noprintanswers
+
+\begin{document}
+\begin{questions}
+
+
+\question State DeMorgan's Laws.
+
+\question Prove both of DeMorgan's Laws using a truth table.
+
+\question $S$ is the sentence: ``It is snowing.''  $Q$ is the sentence: ``We are having a quiz.''
+\begin{parts}
+\part Construct truth tables for the following statements and compound statements:  $\mathbf{S}, \mathbf{Q}, \mathbf{S}\vee\mathbf{Q}, \mathbf{S}\wedge\mathbf{Q}, \mathbf{S} \to \mathbf{Q}, \mathbf{Q}\to\mathbf{S} $
+
+\part Is the sentence ``If it snows, then we will have a quiz'' equivalent to the sentence, ``If we have a quiz, then it will snow''?  Explain in words and using the truth table.
+
+\end{parts}
+
+\question Each of the following is an argument: the given statements are premises, things you know to be true.  What \emph{else} must be true, given the premises below?  Write your answer using symbols and using the English sentence equivalents of each statement.
+
+\begin{parts}
+\part $ \mathbf{S \to Q}$, $\mathbf{S}$
+
+\part $ \mathbf{S \to Q}$, $\mathbf{\lnot Q}$
+  
+\part $ \mathbf{S \to Q}$, $\mathbf{Q \to U}$    ($U$ is the sentence ``We are unhappy'')
+\end{parts}
+
+
+
+\question  A ``connected'' graph is one in which every point is connected to the others, so that it is possible to travel from any point to any other point (but not necessarily directly).  I claim that in every connected graph, it is possible to find a path that covers every line (bridge) once and only once.  Prove  that I am wrong by showing examples of graphs that seem to confirm my claim, and some examples that show that it is false. 
+
+  
+\question There is a crazy mailman who doesn't care what box each letter goes in, so long as there are no more than $X$ letters in each box.  If there are 80 mailboxes and 2410 letters to deliver what is the smallest value $X$ can be, so that the mailman is happy? 
+
+\question In a tournament with $\mathbf{n}$ teams, if every team plays each of the other teams exactly once, and every team wins at least once, then at least two of the teams will end up with the same win-loss record.  Explain and prove why this occurs.
+
+
+\question Below are several claims that can be proven using induction.  Choose \emph{at least} one of them and prove it.  
+\begin{parts}
+\part Prove that $ 1 + 2 + 3 + \ldots + n = \frac{n(n+1)}{2}$
+
+\part Prove that $ 10^n - 1 $ is always divisible by $9$, as long as $n$ is an integer.
+
+Another way of writing that that expression is divisible by $10$ is to say that $ 10^n - 1 = 9x$, where $x$ is some integer.  ($x$ is the whole number you would get if you divided $10^n -1$ by $9$. 
+  
+\part Prove that a checkerboard  of size $2^n$ by $2^n$ with one square removed can always be covered by a whole number of ``trominoes'' without any overlaps and without any other missing squares.
+
+\part Prove that the sum of the elements in the $n$-th row of Pascal's Triangle is $2^n$.
+
+\part Prove that if there are $n$ people at a meeting, and every person shakes every other person's hand, then the number of handshakes that occurs is $\frac{n(n-1)}{2}$.
+\end{parts}
+
+\question Consider a graph with $6$ points, where every point is connected by a line to every other point.  (A graph like that is sometimes called a \emph{complete} graph with 6 points, or $K_6$)
+\begin{parts}
+\part How many points are there within this graph?
+\part How many lines are there within this graph?
+\part How many triangles (groups of 3 points, all of which are connected to each other? -- sometimes called $K_3$)
+\part How many ``squares'' (groups of 4 points, all of which are connected to each other? -- sometimes called $K_4$)  
+\part How many ``pentagons'' (groups of 5 points, all of which are connected to each other? -- sometimes called $K_5$)
+\part How many ``hexagons'' (groups of 6 points, all of which are connected to each other? -- sometimes called $K_6$)
+\end{parts}
+ 
+\question There are $6$ people in a meeting in which some of them will be fired.  Each of their names is written on a slip of paper, and placed in a hat.  The first name drawn out will be fired, but will get a \$1000 dollar severance.  The second name will be fired and get a \$2000 severance, the third a \$3000 severance, and so on.  Each person would prefer not to get fired, of course, but if they are fired, they would rather be chosen last.  How many different possible outcomes are there?  (An outcome is a possible listing of who gets fired and how much money they get)
+
+\begin{parts}
+\part If nobody gets fired?
+\part If only 1 person gets fired?
+\part If two get fired?
+\part If three get fired?
+\part If four get fired?
+\part If five get fired?
+\part If all six get fired?
+\end{parts}
+
+\question BONUS In the last problem, suppose you also want to know how many possibilities there are for the identities of the people who \emph{keep} their jobs.  In each case above (nobody fired, 1 fired, 2 fired, etc.) determine how many possibilities there are for the set of people NOT fired. 
+
+
+
+\end{questions} 
+\end{document}
