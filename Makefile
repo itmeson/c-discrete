@@ -1,16 +1,16 @@
 
-PELICAN=pelican
+PELICAN=/Library/Frameworks/Python.framework/Versions/2.7/bin/pelican
 PELICANOPTS=None
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelican.conf.py
-THEME=pelican-course-theme
+THEME=pelican-bootstrap3
 
 
 SSH_HOST=web 
-SSH_TARGET_DIR=markbetnel.com/discrete
+SSH_TARGET_DIR=markbetnel.com/dev/discrete
 
 DROPBOX_DIR=~/Dropbox/Public/
 
