@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"Discrete Mathematics"
-SITEURL = 'http://markbetnel.com/dev/discrete'
+SITEURL = 'http://markbetnel.com/courses/discrete'
 
 TIMEZONE = 'America/New_York'
 GOOGLE_ANALYTICS = "UA-20141547-1"
